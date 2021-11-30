@@ -1,7 +1,7 @@
 Mi nombre es  Bryan Adrian Villegas Sanchez.
 Actualmente soy Desarrollador de aplicaciones web Fullstack
 Trabajo Rest api desde la creación de una hasta el consumo de datos
-, Manejo de igual forma web servicesademás de diversos manejadores
+, Manejo web services además de diversos manejadores
 De base de datos como son Oracle xe ,MySQL , Sql server además
 De tener experiencia en manejo servidores Linux como Nginex 
 Y ubuntu.
